@@ -1,6 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://tanishk.me)
+<div align="center">
+  <a href="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" target="_blank">
+    <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" alt="Master Head Banner" height="300" />
+  </a>
+</div>
 
-<br clear="both">
 
 <h4 align="left">👋 Hey there! I'm Tanishk Shrivastava 👨‍💻<br>🎓 Recent @LNCTBHOPAL grad, passionate problem-solver, and innovator.<br><br>🚀 Highlights:<br><br>🏆 Smart India Hackathon participant.<br>🌐 Web dev and AI enthusiast.<br>👥 Strong team player.<br>🔧 Skills:<br><br>💻 HTML, CSS, Python, C++, and more.<br>🌟 Salesforce specialist.<br>💡 Career:<br><br>🚀 Driven by innovation.<br>💬 Fluent in English, Hindi, Urdu.<br>👥 Strong reputation.<br>📫 Let's Connect:</h4>
 
