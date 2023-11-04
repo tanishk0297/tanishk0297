@@ -5,7 +5,7 @@
 </div>
 
 
-<h4 align="left">👋 Hey there! I'm Tanishk Shrivastava 👨‍💻<br>🎓 Recent @LNCTBHOPAL grad, passionate problem-solver, and innovator.<br><br>🚀 Highlights:<br><br>🏆 Smart India Hackathon participant.<br>🌐 Web dev and AI enthusiast.<br>👥 Strong team player.<br>🔧 Skills:<br><br>💻 HTML, CSS, Python, C++, and more.<br>🌟 Salesforce specialist.<br>💡 Career:<br><br>🚀 Driven by innovation.<br>💬 Fluent in English, Hindi, Urdu.<br>👥 Strong reputation.<br>📫 Let's Connect:</h4>
+<h4 align="left">👋 Hey there! I'm Tanishk Shrivastava 👨‍💻<br>🎓 Recent @LNCTBHOPAL grad, passionate problem-solver, and innovator.<br><br>🚀 Highlights:<br><br>🏆 Smart India Hackathon participant.<br>🌐 Web dev and AI enthusiast.<br>👥 Strong team player.<br>🔧 Skills:<br><br>💻 HTML, CSS, Python, C++, and more.<br>🌟 Salesforce specialist.<br>💡 Career:<br><br>🚀 Driven by innovation.<br>💬 Fluent in English, Hindi.<br>👥 Strong reputation.<br>📫 Let's Connect:</h4>
 
 ###
 
