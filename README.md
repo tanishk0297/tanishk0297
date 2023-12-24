@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" target="_blank">
-    <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" alt="Master Head Banner" height="300" />
+  <a href="[https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp](https://www.canva.com/design/DAFzOnMwGe4/mxRpj67zW3UdHg52uUnQog/watch?utm_content=DAFzOnMwGe4&utm_campaign=designshare&utm_medium=link&utm_source=editor)" target="_blank">
+    <img src="[https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp](https://www.canva.com/design/DAFzOnMwGe4/mxRpj67zW3UdHg52uUnQog/watch?utm_content=DAFzOnMwGe4&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="Master Head Banner" height="300" />
   </a>
 </div>
 
