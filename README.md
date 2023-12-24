@@ -1,7 +1,7 @@
 <div align="center">
- <iframe src="https://giphy.com/embed/IwzMMV5CAOHMkqhGTx" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IwzMMV5CAOHMkqhGTx">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/IwzMMV5CAOHMkqhGTx/giphy.gif" width="480" height="144">
+  <p><a href="https://giphy.com/gifs/IwzMMV5CAOHMkqhGTx">via GIPHY</a></p>
 </div>
-
 
 <h4 align="left">👋 Hey there! I'm Tanishk Shrivastava 👨‍💻<br>🎓 Recent @LNCTBHOPAL grad, passionate problem-solver, and innovator.<br><br>🚀 Highlights:<br><br>🏆 Smart India Hackathon participant.<br>🌐 Web dev and AI enthusiast.<br>👥 Strong team player.<br>🔧 Skills:<br><br>💻 HTML, CSS, Python, C++, and more.<br>🌟 Salesforce specialist.<br>💡 Career:<br><br>🚀 Driven by innovation.<br>💬 Fluent in English, Hindi.<br>👥 Strong reputation.<br>📫 Let's Connect:</h4>
 
