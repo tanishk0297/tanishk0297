@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/IwzMMV5CAOHMkqhGTx/giphy.gif" width="480" height="144">
-  <p><a href="https://giphy.com/gifs/IwzMMV5CAOHMkqhGTx">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/IwzMMV5CAOHMkqhGTx/giphy.gif" width="1280" height="194">
+  <p><a href="https://giphy.com/gifs/IwzMMV5CAOHMkqhGTx"></a></p>
 </div>
-
 <h4 align="left">👋 Hey there! I'm Tanishk Shrivastava 👨‍💻<br>🎓 Recent @LNCTBHOPAL grad, passionate problem-solver, and innovator.<br><br>🚀 Highlights:<br><br>🏆 Smart India Hackathon participant.<br>🌐 Web dev and AI enthusiast.<br>👥 Strong team player.<br>🔧 Skills:<br><br>💻 HTML, CSS, Python, C++, and more.<br>🌟 Salesforce specialist.<br>💡 Career:<br><br>🚀 Driven by innovation.<br>💬 Fluent in English, Hindi.<br>👥 Strong reputation.<br>📫 Let's Connect:</h4>
 
 ###
@@ -10,47 +9,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishk0297&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=tanishk0297&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishk0297&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <!-- You can modify the next line to include the number of commits directly from GitHub contributions graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishk0297&hide_title=true&hide_rank=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="no. of commits graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://tanishkshri.netlify.app/assests/images/tanishk.png"  />
+<img align="right" height="150" src="https://tanishk.me/assests/images/contact.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <!-- Your existing code for displaying programming language icons -->
 </div>
 
 ###
@@ -73,5 +43,3 @@
 ###
 
 <br clear="both">
-
-###
